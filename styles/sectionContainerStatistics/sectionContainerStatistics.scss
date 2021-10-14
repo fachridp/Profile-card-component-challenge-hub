@@ -1,0 +1,39 @@
+section.container-statistics {
+  padding: 0.8rem 1.4rem 0 1.4rem;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-top: 2px solid var(--BorderColor);
+  text-align: center;
+
+  div {
+    line-height: 1.5rem;
+
+    &.followers {
+      margin: 0 0 0.8rem 0;
+    }
+
+    &.likes {
+      margin: 0 0 0.8rem 0;
+    }
+
+    &.photos {
+      margin: 0 0 0.8rem 0;
+    }
+
+    h5 {
+      font-size: 1em;
+      letter-spacing: 0.05rem;
+    }
+
+    p {
+      color: var(--DarkGray);
+      font-size: 0.8em;
+      letter-spacing: 0.08rem;
+    }
+  }
+}

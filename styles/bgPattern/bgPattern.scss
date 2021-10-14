@@ -1,0 +1,27 @@
+.bg-pattern {
+  z-index: -1;
+
+  .top {
+    width: 320px;
+
+    img {
+      width: 100%;
+      position: fixed;
+      top: -150px;
+      right: 150px;
+      z-index: -2;
+    }
+  }
+
+  .bottom {
+    width: 320px;
+
+    img {
+      width: 100%;
+      position: fixed;
+      top: 400px;
+      left: 180px;
+      z-index: -1;
+    }
+  }
+}

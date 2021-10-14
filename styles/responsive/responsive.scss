@@ -1,0 +1,168 @@
+@media only screen and (min-width: 290px) {
+  main {
+    .container-card {
+      width: 280px;
+      height: 400px;
+
+      section.container-profile {
+        top: 90px;
+        left: 65px;
+      }
+
+      section.container-statistics {
+        padding: 1.8rem 1.4rem;
+        flex-direction: row;
+        justify-content: space-between;
+
+        div {
+          line-height: 1.4rem;
+        }
+      }
+    }
+  }
+}
+
+@media only screen and (min-width: 375px) {
+  main {
+    .container-card {
+      width: 330px;
+
+      section.container-profile {
+        left: 90px;
+      }
+
+      section.container-statistics {
+        padding: 1.8rem 2.8rem;
+      }
+    }
+  }
+}
+
+@media only screen and (min-width: 580px) {
+  main {
+    .bg-pattern {
+      .top {
+        img {
+          top: -300px;
+          right: 280px;
+        }
+      }
+
+      .bottom {
+        img {
+          left: 250px;
+        }
+      }
+    }
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  main {
+    .bg-pattern {
+      .top {
+        img {
+          top: -370px;
+          right: 340px;
+        }
+      }
+
+      .bottom {
+        img {
+          left: 300px;
+        }
+      }
+    }
+  }
+}
+
+@media only screen and (min-width: 800px) {
+  main {
+    .bg-pattern {
+      .top {
+        img {
+          top: -500px;
+          right: 450px;
+        }
+      }
+    }
+  }
+}
+
+@media only screen and (min-width: 1000px) {
+  main {
+    .bg-pattern {
+      .top {
+        img {
+          top: -600px;
+          right: 500px;
+        }
+      }
+
+      .bottom {
+        img {
+          top: 320px;
+          left: 400px;
+        }
+      }
+    }
+  }
+}
+
+@media only screen and (min-width: 1100px) {
+  main {
+    .bg-pattern {
+      .top {
+        img {
+          top: -700px;
+          right: 600px;
+        }
+      }
+
+      .bottom {
+        img {
+          left: 500px;
+        }
+      }
+    }
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  main {
+    .bg-pattern {
+      .top {
+        img {
+          top: -800px;
+          right: 700px;
+        }
+      }
+
+      .bottom {
+        img {
+          top: 328px;
+          left: 600px;
+        }
+      }
+    }
+  }
+}
+
+@media only screen and (min-width: 1440px) {
+  main {
+    .bg-pattern {
+      .top {
+        img {
+          right: 800px;
+        }
+      }
+
+      .bottom {
+        img {
+          top: 308px;
+          left: 630px;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,KAAK,CAAC;EACJ,UAAU,CAAA,mBAAC;EACX,yBAAyB,CAAA,mBAAC;EAC1B,iBAAiB,CAAA,mBAAC;EAClB,UAAU,CAAA,gBAAC;EACX,aAAa,CAAA,gBAAC;CACf",
+    "sources": [
+        "customProperty.scss"
+    ],
+    "names": [],
+    "file": "customProperty.css"
+}

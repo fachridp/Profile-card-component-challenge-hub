@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,OAAO,AAAA,kBAAkB,CAAC;EACxB,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,KAAK;CAOd;;AATD,AAIE,OAJK,AAAA,kBAAkB,CAIvB,GAAG,CAAC;EACF,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;EACZ,cAAc,EAAE,MAAM;CACvB",
+    "sources": [
+        "sectionContainerBgCard.scss"
+    ],
+    "names": [],
+    "file": "sectionContainerBgCard.css"
+}

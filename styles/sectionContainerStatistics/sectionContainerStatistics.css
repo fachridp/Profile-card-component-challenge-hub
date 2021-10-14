@@ -1,0 +1,49 @@
+section.container-statistics {
+  padding: 0.8rem 1.4rem 0 1.4rem;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  border-top: 2px solid var(--BorderColor);
+  text-align: center;
+}
+
+section.container-statistics div {
+  line-height: 1.5rem;
+}
+
+section.container-statistics div.followers {
+  margin: 0 0 0.8rem 0;
+}
+
+section.container-statistics div.likes {
+  margin: 0 0 0.8rem 0;
+}
+
+section.container-statistics div.photos {
+  margin: 0 0 0.8rem 0;
+}
+
+section.container-statistics div h5 {
+  font-size: 1em;
+  letter-spacing: 0.05rem;
+}
+
+section.container-statistics div p {
+  color: var(--DarkGray);
+  font-size: 0.8em;
+  letter-spacing: 0.08rem;
+}
+/*# sourceMappingURL=sectionContainerStatistics.css.map */
